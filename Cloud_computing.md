@@ -51,5 +51,14 @@
 5) Multiple Storage Options
 6) Secure
 
+# Accessing AWS Platform
 
+1) AWS Management Console.
+2) AWS Command Line Interface.
+3) Software Development Kit's.
+
+# Most Commonly Used AWS Services
+
+1) Compute and Network Servies
+    1) Amazon Elastic Compute Cloud (Amazon EC2)
 

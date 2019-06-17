@@ -60,5 +60,8 @@
 # Most Commonly Used AWS Services
 
 1) Compute and Network Servies
-    1) Amazon Elastic Compute Cloud (Amazon EC2)
+    1) Amazon Elastic Compute Cloud (Amazon EC2).
+    2) AWS Lambda.
+    3) Auto Scaling.
+    4) Elastic Load Balancing (ELB).
 

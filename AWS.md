@@ -47,7 +47,17 @@
     3) Amazon Redshift.
     4) Amazon Elasticcache.
 4) Management Tools and Services
-    1) Aazon Cloudwatch.
-    2)
-
-
+    1) Amazon Cloudwatch.
+    2) AWS Cloudformation.
+    3) AWS Cloudtrail.
+    4) Amazon Config.
+5) Security and Identity Services
+    1) AWS Identity and Access Management (IAM).
+    2) AWS Key Management Service (KMS).
+    3) AWS Directory Service.
+    4) AWS Web Application Firewall (WAF).
+6) Application Services
+    1) Amazon API Gateway
+    2) Amazon Simple Notification Service (SNS).
+    3) Amazon Simple Email Service.
+    4) Amazon Simple Queue Service (SQS).

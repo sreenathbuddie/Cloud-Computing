@@ -38,4 +38,16 @@
 2) Storage and Content Delivery Services
     1) Amazon Simple Storage Service (Amazon s3).
     2) AWS Glacier.
+    3) Amazon Elastic Block Store (EBS).
+    4) AWS Storage Gateway.
+    5) AWS CloudFront.
+3) Database Services
+    1) Amazon Relational Database Services (Amazon RDS).
+    2) Amazon DynamoDB.
+    3) Amazon Redshift.
+    4) Amazon Elasticcache.
+4) Management Tools and Services
+    1) Aazon Cloudwatch.
+    2)
+
 

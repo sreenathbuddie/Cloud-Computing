@@ -61,3 +61,31 @@
     2) Amazon Simple Notification Service (SNS).
     3) Amazon Simple Email Service.
     4) Amazon Simple Queue Service (SQS).
+
+
+# Amazon Resource Names (ARNs)
+
+1) ARNs uniquely identify AWS resources.
+2) ARN have a specific format.
+
+
+# AWS Trusted Advisor
+
+1) An online resource to help reduce of cost.Increase performance, and improve security by optimizing your AWS environment.
+2) Trusted Advisor provides real time guidance to help you provision your resources following AWS best practices.
+
+# AWS Billing
+
+1) Billing History
+2) Payment
+3) Current Cost
+
+# AWS Cloud Terminologies
+
+1) Minimum Infrastructure requirements
+2) Hardware
+3) Storage
+4) RAM
+5) Power
+
+

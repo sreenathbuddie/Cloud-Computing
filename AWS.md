@@ -88,4 +88,8 @@
 4) RAM
 5) Power
 
+# Putty installing URL's
 
+https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe
+
+https://the.earth.li/~sgtatham/putty/latest/w64/puttygen.exe

@@ -35,4 +35,5 @@
 2) mkfs -t ext4 /dev/xvdf
 3) mkdir test  -> creating a folder with name test
 4) mount /dev/xvdf test -> entering into the test folder
+5) umount test/ -> removing the folder
 

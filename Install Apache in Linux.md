@@ -3,6 +3,7 @@
 1) sudo su
 2) apt-get update
 3) apt-get install apache2
+4) service apache2 stop --> stopping apache service
 
 # Check apache2 status
 

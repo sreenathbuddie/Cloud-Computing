@@ -3,7 +3,7 @@
 
 1) apt-get install awscli
 2) aws --version --> checking version
-3) aws ec2 describe-instances --region us-east-2 --> running 7 checking
+3) aws ec2 describe-instances --region us-east-2 --> running & checking
 
 # Configuring AWS Cli 
 
